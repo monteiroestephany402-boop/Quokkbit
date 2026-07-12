@@ -1,0 +1,2 @@
+public TipoImagem tresEnRaya(Jugador jugadorRival){
+    if(table[0][0]==1&&tablero[0][1]==1&&tablero[0][2]==1)
